@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureTaleBattle", "AdventureTaleBattle\AdventureTaleBattle.csproj", "{538D4643-92D8-4DDC-86EB-6CAD53FB1C45}"
+EndProject
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "Projekt_AdventureTale", "..\..\..\..\Desktop\Projekt_AdventureTale\Projekt_AdventureTale\obj\Debug\Projekt_AdventureTale.exe", "{D55754F8-DF47-48E3-83A2-F5F4FF3A7F07}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\vmadmin\Desktop\Projekt_AdventureTale\Projekt_AdventureTale\obj\Debug\Projekt_AdventureTale.exe
+		RemoteMachine = BMWP2
+		StartingDirectory = C:\Users\vmadmin\Desktop\Projekt_AdventureTale\Projekt_AdventureTale\obj\Debug
+		Environment = Standard
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{538D4643-92D8-4DDC-86EB-6CAD53FB1C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{538D4643-92D8-4DDC-86EB-6CAD53FB1C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{538D4643-92D8-4DDC-86EB-6CAD53FB1C45}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{538D4643-92D8-4DDC-86EB-6CAD53FB1C45}.Debug|x86.Build.0 = Debug|Any CPU
+		{538D4643-92D8-4DDC-86EB-6CAD53FB1C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{538D4643-92D8-4DDC-86EB-6CAD53FB1C45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{538D4643-92D8-4DDC-86EB-6CAD53FB1C45}.Release|x86.ActiveCfg = Release|Any CPU
+		{538D4643-92D8-4DDC-86EB-6CAD53FB1C45}.Release|x86.Build.0 = Release|Any CPU
+		{D55754F8-DF47-48E3-83A2-F5F4FF3A7F07}.Debug|Any CPU.ActiveCfg = Release
+		{D55754F8-DF47-48E3-83A2-F5F4FF3A7F07}.Debug|x86.ActiveCfg = Release
+		{D55754F8-DF47-48E3-83A2-F5F4FF3A7F07}.Release|Any CPU.ActiveCfg = Release
+		{D55754F8-DF47-48E3-83A2-F5F4FF3A7F07}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
